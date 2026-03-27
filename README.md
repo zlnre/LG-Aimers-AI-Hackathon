@@ -1,1 +1,1 @@
-# lgaimers ai hackerthon
+# LG Aimers AI Hackathon
