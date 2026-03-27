@@ -1,1 +1,1 @@
-# lgaimers7
+# lgaimers ai hackerthon
